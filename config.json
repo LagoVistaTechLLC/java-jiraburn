@@ -1,0 +1,12 @@
+{
+	"projectName": "Tofino",
+	"jiraRestUrl": "https://somehost.atlassian.net/rest",
+	"user": "someone@somedomain.com",
+	"passwordKey": "knNPcQf2CW8xnBRKvTF8DA28",
+	"searchJql": "project=\"Name\"",
+	"completedStatuses": [
+		"Done",
+		"Pending Update"
+	],
+	"sized": false
+}

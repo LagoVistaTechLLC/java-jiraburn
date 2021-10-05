@@ -1,0 +1,1 @@
+java -jar burnjira.jar %1
